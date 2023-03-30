@@ -7,9 +7,21 @@
 
 Consumindo API de filmes (IMDb) em JAVA
 Um programa desenvolvido para consumir a API do IMDb afim de buscar e apresentar de forma ordenada os Top 10 Filmes
+<p>
+<p>
 
 
+<h1 align="center">:construction: Projeto em construção :construction:</h1>
 
+ # <h2 align="center">:hammer: Funcionalidades do projeto</h2>
+
+- `Funcionalidade 1`: Apresentar os TOP 10 fimes segundo o IMDb
+
+## <h3>✔️ Técnicas e tecnologias utilizadas</h3>
+
+- ``Java 19``
+- ``InteliJ IDEA``
+- ``Paradigma de orientação a objetos``
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/eduwalker/API_IMDb_Java)
 ![GitHub followers](https://img.shields.io/github/followers/eduwalker?style=social)
