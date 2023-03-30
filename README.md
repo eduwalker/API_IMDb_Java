@@ -6,6 +6,7 @@
 </p>
 
 Consumindo API de filmes (IMDb) em JAVA
+Um programa desenvolvido para consumir a API do IMDb afim de buscar e apresentar de forma ordenada os Top 10 Filmes
 
 
 
