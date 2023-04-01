@@ -16,7 +16,8 @@ Um programa desenvolvido junto com a Alura para consumir a API do IMDb afim de b
  # <h2 align="center">:hammer: Funcionalidades do projeto</h2>
 
 - `Funcionalidade 1`: Apresentar os TOP 10 fimes segundo o IMDb
-
+- `Funcionalidade 2`: Buscar Banner dos filmes
+- `Funcionalidade 3`: Criar um Sticker utilizando o banner dos filmes
 ## <h3>✔️ Técnicas e tecnologias utilizadas</h3>
 
 - ``Java 19``
